@@ -1,1 +1,1 @@
-# UserS
+theme: jekyll-theme-minimal
